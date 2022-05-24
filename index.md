@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+# Hi there! My name is Steph Camino!
+## Email: smcamino@ncsu.edu
 
-Maybe say a some things about yourself.
+I recieved my Bachelor's degree in statistics and mathematics with a minor in Computer Science at the University of Wyoming. I was born and raised in Wyoming but I currently reside in Raleigh while i persue my Master's degree in statistics. 
 
-Or maybe what you plan to blog about.
+I'm currently in a data science course at NC State so this blog will be filled with all sorts of data science fun! 
+
+![Sheep]("Sheep!.jpeg")
