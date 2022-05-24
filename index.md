@@ -5,4 +5,4 @@ I recieved my Bachelor's degree in statistics and mathematics with a minor in Co
 
 I'm currently in a data science course at NC State so this blog will be filled with all sorts of data science fun! 
 
-![Sheep]("Sheep!.jpeg")
+![Sheep]("smcamino.github.io/Sheep!.jpg")
