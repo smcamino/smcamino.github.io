@@ -49,4 +49,4 @@ femaleNames %>%
     labs(x = "Year", y = "Count")
 ```
 
-![](C:\Users\scami\OneDrive\Documents\Summer%202022\St558\Repos\smcamino.github.io_posts\2022-06-29-Third-Blog-Post_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](C:\Users\scami\OneDrive\DOCUME~1\Summer%202022\St558\Repos\smcamino.github.io_posts\2022-06-29-Third-Blog-Post_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
