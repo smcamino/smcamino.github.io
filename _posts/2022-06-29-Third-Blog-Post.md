@@ -14,14 +14,6 @@ has probably been the coolest thing I’ve learned thus far so let me hit
 ya with the cool stuff. Kachow!!!
 
 ``` r
-# Libraries
-library(tidyverse)
-library(hrbrthemes)
-library(babynames)
-library(viridis)
-library(knitr)
-knitr::opts_chunk$set(fig.path = "../images/")
-
 # Load dataset from github
 data <- read.table("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/3_TwoNumOrdered.csv", header=T)
 data$date <- as.Date(data$date)
@@ -49,4 +41,4 @@ femaleNames %>%
     labs(x = "Year", y = "Count")
 ```
 
-![](C:\Users\scami\OneDrive\DOCUME~1\Summer%202022\St558\Repos\smcamino.github.io_posts\2022-06-29-Third-Blog-Post_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](../images/unnamed-chunk-5-1.png)<!-- -->

@@ -44,6 +44,5 @@ femaleNames %>%
     ) +
     facet_wrap(~name, scale="free_y") + 
     labs(x = "Year", y = "Count")
-knitr::opts_chunk$set(fig.path = "~/images/")
 ```
 
