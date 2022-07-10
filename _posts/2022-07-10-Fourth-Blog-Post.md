@@ -3,11 +3,6 @@ Favorite Machine Learning Method
 Steph Camino
 2022-07-10
 
-``` r
-library(knitr)
-knitr::opts_chunk$set(fig.path = "../images/")
-```
-
 I’ve been exposed to machine learning before this class, but I was
 always a little lost, so I was so thankful that I got a good starting
 base knowledge in the topic! I’d have to say that Random Forest was my
@@ -59,7 +54,7 @@ rfFit
 plot(rfFit)
 ```
 
-![](../images/unnamed-chunk-3-1.png)<!-- -->
+![](../images/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 pred <- predict(rfFit, newdata = dataTest)
