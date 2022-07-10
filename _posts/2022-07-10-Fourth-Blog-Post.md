@@ -5,11 +5,6 @@ Steph Camino
 
 ``` r
 library(knitr)
-```
-
-    ## Warning: package 'knitr' was built under R version 4.1.3
-
-``` r
 knitr::opts_chunk$set(fig.path = "../images/")
 ```
 
