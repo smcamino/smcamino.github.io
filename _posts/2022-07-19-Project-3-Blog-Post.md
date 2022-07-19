@@ -6,7 +6,8 @@ Steph Camino
 Welcome! This is the data description for the wildfire data used in my
 project 3 app. Like mentioned on the About page in the app, this data
 was provided by a Regional Fire Ecologist for the National Park Service
-and was exported by the U.S Geological Survey.
+and was exported by the U.S Geological Survey. This data was measured
+before, pre-burn, post-burn, and after a wildland fire occurred.
 
 # Data Description
 
